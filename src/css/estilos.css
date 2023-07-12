@@ -77,8 +77,8 @@ img {
 
 .personagem-selecionado
 .personagem-grande {
-    width: 430px;
-    height: 430px;
+    width: 420px;
+    height: 410px;
 }
 
 .personagem-selecionado
@@ -97,3 +97,8 @@ img {
     width: 420px;
 }
 
+.cabecalho
+.logo {
+    width: 200px;
+    height: 89px;
+}
